@@ -1,8 +1,4 @@
-<%-- 
-    Document   : index
-    Created on : 17 ago. 2023, 10:19:03
-    Author     : je
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
